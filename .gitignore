@@ -1,0 +1,4 @@
+data/clean_data.csv
+data/features.pkl
+data/pipeline.pkl
+model/*
